@@ -1,0 +1,17 @@
+.authForm{
+    width:40rem;
+    max-width: 40%;
+    margin:5rem auto;
+}
+.inputForm input,
+.inputForm label{
+    width:100%;
+    margin-bottom:1rem;
+}
+.buttonForm{
+    align-items: center;
+
+}
+.buttonForm button{
+    margin: 0 0.5rem;
+}
